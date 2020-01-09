@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC3A764",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -3.399320,
+    "ref_longitude": 36.789423,
+    "ref_altitude": 1440,
+    "contact_email": "lhs930920@gmail.com",
+    "description": "for LoRa study in iTEC"
+  }
+}
